@@ -2,8 +2,8 @@
 
 # Présentation du corpus (Lola)
 
-Ce passage doit reprendre des éléments du DM du 26 mars sur la présentation du protocole de constitution du corpus.
-Il faut intégrer des graphiques obtenus sur Gallicagram et/ou Ngram Viewer.
+- Ce passage doit reprendre des éléments du DM du 26 mars sur la présentation du protocole de constitution du corpus.
+- Il faut intégrer des graphiques obtenus sur Gallicagram et/ou Ngram Viewer.
 
 # La question de la temporalité
 
