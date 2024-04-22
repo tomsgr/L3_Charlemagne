@@ -19,6 +19,7 @@ Cette partie doit expliquer plusieurs choses :
 ## Les principaux résultats de l'AFC
 
 - Rappeler brièvement ce qu'est une AFC
+- Présenter AnalyseSHS
 - Nombre de facteurs à dépouiller
 - Seuillage des modalités, modalités en supplémentaire...
 
