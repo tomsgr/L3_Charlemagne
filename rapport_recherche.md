@@ -2,21 +2,24 @@
 
 # Présentation du corpus (Lola)
 
+## Quel corpus pour quelles questions ?
+
 - Ce passage doit reprendre des éléments du DM du 26 mars sur la présentation du protocole de constitution du corpus.
 - Il faut intégrer des graphiques obtenus sur Gallicagram et/ou Ngram Viewer.
+
+## Explorer le corpus des mentions de Charlemagne dans le Journal des Débats (Tom)
+
+- présenter l'environnement logiciel : R, RStudio, quanteda
+- présenter le code qui permet d'importer le corpus du journal des débats 1815-1870
+- décrire les principales caractéristiques du corpus (nombres de mots et d'occurrences) et la distribution des mots selon la temporalité
 
 # La question de la temporalité
 
 ## Position du problème et méthodologie (Tom)
 
-Cette partie doit expliquer plusieurs choses : 
+- Reprendre la question de la temporalité dans le corpus à travers la présentation de la démarche allant de la table lexicale à l'AFC
 
-- présenter l'environnement logiciel : R, RStudio, quanteda
-- présenter le code qui permet d'importer le corpus du journal des débats 1815-1870
-- décrire les principales caractéristiques du corpus (nombres de mots et d'occurrences) et la distribution des mots selon la temporalité
-- poursuivre la question de la temporalité dans le corpus à travers la présentation de la démarche allant de la table lexicale à l'AFC
-
-## Les principaux résultats de l'AFC
+## Les principaux résultats de l'AFC (à déterminer)
 
 - Rappeler brièvement ce qu'est une AFC
 - Présenter AnalyseSHS
