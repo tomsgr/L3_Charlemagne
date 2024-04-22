@@ -25,15 +25,21 @@
 
 ### Dépouillement du 1er facteur (Enzo)
 
-- Présenter les principaux éléments mis en avant par le 1er facteur
+- Présenter les principaux éléments mis en avant par le 1er facteur.
+- Il faut intégrer des retours au texte via l'utilisation de la fonction `kwic()` de quanteda par exemple.
+- Possibilité aussi de revenir aux journaux sur Gallica.
 
 ### Dépouillement du 2e facteur (Alexandre)
 
 - Présenter les principaux éléments mis en avant par le 2e facteur
+- Il faut intégrer des retours au texte afin d'illustrer les observations faites via l'utilisation de la fonction `kwic()` de quanteda par exemple.
+- Possibilité aussi de revenir aux journaux sur Gallica.
 
 ### Dépouillement du 3e facteur (Waldeck)
 
 - Présenter les principaux éléments mis en avant par le 3e facteur
+- Il faut intégrer des retours au texte afin d'illustrer les observations faites via l'utilisation de la fonction `kwic()` de quanteda par exemple.
+- Possibilité aussi de revenir aux journaux sur Gallica.
 
 # La question des genres journalistiques (selon le temps)
 
