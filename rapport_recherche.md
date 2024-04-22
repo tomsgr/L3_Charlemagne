@@ -1,8 +1,8 @@
 **Attention**, ce document est en cours de rédaction. Il s'agit d'une version de travail amenée à étudier.
 
-# Présentation du corpus (Lola)
+# Présentation du corpus
 
-## Quel corpus pour quelles questions ?
+## Quel corpus pour quelles questions ? (Lola)
 
 - Ce passage doit reprendre des éléments du DM du 26 mars sur la présentation du protocole de constitution du corpus.
 - Il faut intégrer des graphiques obtenus sur Gallicagram et/ou Ngram Viewer.
@@ -15,12 +15,9 @@
 
 # La question de la temporalité
 
-## Position du problème et méthodologie (Tom)
+## Position du problème et méthodologie (Tom et Lola)
 
 - Reprendre la question de la temporalité dans le corpus à travers la présentation de la démarche allant de la table lexicale à l'AFC
-
-## Les principaux résultats de l'AFC (à déterminer)
-
 - Rappeler brièvement ce qu'est une AFC
 - Présenter AnalyseSHS
 - Nombre de facteurs à dépouiller
