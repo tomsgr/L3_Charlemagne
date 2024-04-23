@@ -33,6 +33,11 @@
 - Il faut intégrer des retours au texte via l'utilisation de la fonction `kwic()` de quanteda par exemple.
 - Possibilité aussi de revenir aux journaux sur Gallica.
 
+> "Le Saint-Siège ne veut pas transiger, il demande qu'avant tout son droit soit reconnu en se réservant d'en faire ensuite l'usage qu'il voudra [...] [Le Duc de Valmy] démontre aussi clairement que depuis longtemps la puissance temporelle du Saint-Siège a pêrdu le rang qu'elle occupait dans l'Equilibre politique de l'Europe; que la liberté et l'indépendance qu'elle possédait aux temps de Charlemagne et de Jules II ont été effacées par les transformations politiques et territoriales des deux derniers siècles" [^4]
+
+[^4]: *Journal des Débats*, 14 mars 1861, URL: <https://gallica.bnf.fr/ark:/12148/bpt6k452639v>
+
+
 ### Dépouillement du 2e facteur (Alexandre)
 
 - Présenter les principaux éléments mis en avant par le 2e facteur
