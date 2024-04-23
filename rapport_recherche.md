@@ -92,6 +92,8 @@ la même démarche, Google Ngram Viewer, qui travaille sur un corpus dont
 la composition reste inconnue, donne encore un autre résultat.[^2] (…)
 Conclusion de cela
 
+![Courbe Gallicagram](img/Courbe_Gallicagram.png)
+
 À part de représenter les principaux piliers de la construction
 discursive de la figure de Charlemagne au 19e siècle, le corpus ici
 proposé réponde aux critères généraux de la construction de corpus. Il
@@ -124,7 +126,6 @@ Hypothèse Plan de démarche
 [^2]: Ces recherches ont été réalisé avec un lissage du facteur 4 pour
     Gallicagram et du facteur 2 pour Google Ngram Viewer.
 
-![Courbe Gallicagram](img/Courbe_Gallicagram.png)
 
 ## Explorer le corpus des mentions de Charlemagne dans le Journal des Débats (Tom)
 
