@@ -113,7 +113,7 @@ journaliste P.David:
 > comprise au nom des cités données ou restitues aux Papes par Pépin et
 > Charemagne”.[^2]
 
-Cette citation faisant référence au don de Pépin en 751, cre une nuance
+Cette citation faisant référence au don de Pépin en 751, créant une nuance
 insistant sur l’indépendance de la Ville Eternelle face aux Lombards
 lors des conflits opposant rois lombards et papes dans les années 720 à
 750. Ici, comme la ville n’a jamais été conquise et donc jamais
@@ -131,7 +131,7 @@ juridique et morale des droits territoriaux du Pape. Cela traduit tous
 les liens historiques entre Charlemagne et les papes qui de fait se sont
 matérialisés sur le long temps historiques par l’émergence d’un acteur
 pontifical spirituel et politique ayant influencé la politique
-européenne durant de très longs sicèles.
+européenne durant de très longs siècles.
 
 ##### Un usage discursif de Charlemagne offensif: la fin des Etats Pontificaux
 
@@ -164,7 +164,7 @@ d’unification qui paraît incomplet alors qu’il est dans sa phase
 optimale de réalisation. Ici, il y a un rejet très fort d’une autorité
 temporelle spirituelle, dans un contexte français où malgré l’appui sur
 la religion du régime impérial, une partie de l’opposition défend des
-thèses anticléricales souhaitant diminuer l’influence de m’Eglise dans
+thèses anticléricales souhaitant diminuer l’influence de l’Eglise dans
 la société, en particulier dans le politique.
 
 ###### La Fin des Etats Pontificaux comme fin d’un acteur déliquescent
@@ -189,7 +189,7 @@ Cette citation témloigne des évolutions géopolitiques internationles des
 deux derniers diècles ayant progressivement rétrogradé les Etats
 Pontificaux comme puissance minuere au sein de la péninsule italienne
 soutenue surtout par de grands empires, le dernier en date étant
-l’empire d’AUtriche au cours du XIXe siècle. Ainsi pour le Duc de Valmy,
+l’empire d’Autriche au cours du XIXe siècle. Ainsi pour le Duc de Valmy,
 il apparaît que l’indépendance pontificale est une position qui ne
 puisse plus se défendre du fait du manque d’un soutien d’une grande
 puissance. C’est dans cette pensée que se love le journaliste.
