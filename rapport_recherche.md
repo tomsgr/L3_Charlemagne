@@ -236,7 +236,7 @@ du 19 mars 1866, citation tirée d’un commentaire d’actualités étrangères
 > l’indépendance du Pontife?” \[…\] Afin de s’assurer de la donation de
 > Charlemagne, la papauté laisse épouser successivement neuf femmes, au
 > mépris des arrêts énergiques par lesquels l’Eglise réprouvait le
-> divorce” [^7]
+> divorce” [^5]
 
 Cette citation usant d’un exemple prosaïque pour démontrer les intérêts
 politiques pour les deux partis à s’allier, renverse une sorte d’image
@@ -314,7 +314,7 @@ compte-rendu de la séance du Corps Législatif du 11 mars 1861:
 > français. Il a voulu maintenir la papauté dans des conditions de
 > dignité et d’indépendance, et en même temps il voulut, conformément à
 > la politique séculaire de la France, maintenir la séparation des
-> nations italiennes. » [^8]
+> nations italiennes. » [^6]
 
 Ainsi, Charlemagne sert à justifier par l’histoire, la tradition ou la
 morale une position qui peut sembler trahir nos alliés italiens du
