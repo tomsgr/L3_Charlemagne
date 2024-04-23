@@ -7,6 +7,8 @@
 - Ce passage doit reprendre des éléments du DM du 26 mars sur la présentation du protocole de constitution du corpus.
 - Il faut intégrer des graphiques obtenus sur Gallicagram et/ou Ngram Viewer.
 
+![Courbe Gallicagram](img/Courbe_Gallicagram.png)
+
 ## Explorer le corpus des mentions de Charlemagne dans le Journal des Débats (Tom)
 
 - présenter l'environnement logiciel : R, RStudio, quanteda
