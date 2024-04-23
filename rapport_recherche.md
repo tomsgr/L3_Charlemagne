@@ -776,15 +776,15 @@ Les années qui semblent être les plus compatibles avec ces productions
 littéraires et artistiques sont 1832, 1833, 1834 et 1863, des années
 assez rapprochées entre elles sauf pour la dernière.
 
-[^9]: Journal des débats, 1er septembre 1834,
+[^9]: *Journal des débats*, 1er septembre 1834,
     <https://gallica.bnf.fr/ark:/12148/bpt6k438510m>
 
 [^10]: Jean Charles Leonard Simonde de Sismondi, *Histoire des français...*, 1821
 
-[^11]: Journal des Débats, 14 octobre 1832,
+[^11]: *Journal des Débats*, 14 octobre 1832,
     <https://gallica.bnf.fr/ark:/12148/bpt6k437835v>
 
-[^12]: Journal des Débats, 05 mai 1863,
+[^12]: *Journal des Débats*, 05 mai 1863,
     <https://gallica.bnf.fr/ark:/12148/bpt6k453409g>
 
 [^13]: Jeans-Pons-Guillaume Viennet, *La Franciade: poëme en dix
