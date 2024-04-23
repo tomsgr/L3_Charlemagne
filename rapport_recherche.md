@@ -4,8 +4,125 @@
 
 ## Quel corpus pour quelles questions ? (Lola)
 
-- Ce passage doit reprendre des éléments du DM du 26 mars sur la présentation du protocole de constitution du corpus.
-- Il faut intégrer des graphiques obtenus sur Gallicagram et/ou Ngram Viewer.
+Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge
+et le nationalisme croissant qui revendique des symboles puissants
+d’identité collective, émerge la figure identificatoire emblématique du
+19e siècle : l’empereur carolingien Charlemagne. (…) Une telle
+universalité n’est possible que grâce à la plasticité extraordinaire de
+cette figure. La diversité des activités du Charlemagne historique, y
+compris ses succès militaires, ses réformes juridiques et éducatifs et
+sa relation avec l’Église permettent de lui attribuer des qualités
+multiples en fonction de l’objectif du locuteur. Les visages multiples
+de Charlemagne ont la capacité de servir de permettre l’ancrage dans le
+passé glorieux de toute sorte de projet. L’étude de
+l’instrumentalisation de la figure de l’empereur laisse également
+identifier les liens réunissant les différents champs et régimes
+politiques de la France du 19e siècle et les thèmes centraux de leurs
+discours. Cette plasticité reflète le fait que le Charlemagne auquel le
+19e siècle fait référence n’est pas identique à la réalité historique du
+personnage. La figure moderne se situe là « où se rejoignent et se
+confondent mythe, histoire et poétique »[^1]. De cette fusion témoigne
+entre autres l’ouvrage La Gaule poétique : l’Histoire de France
+considérée dans les rapports avec la poésie, l’éloquence et les
+beaux-arts de Louis-Antoine-François de Marchangy, qui exerçait une
+influence profonde sur la littérature romantique. Charlemagne en tant
+que personnage identificatoire de la France, sa plasticité et la nature
+à la fois historique, mythique et poétique de sa figure laissent
+supposer que le discours qui lui était consacré s’est composé des
+conceptions distinctes, variant selon des événements du 19e siècle. À la
+base de cette hypothèse sera édifié le corpus textuel, visant à
+identifier les manières changeantes dont ceux qui participent au
+discours s’emparent de l’empereur. En outre, il est impératif que le
+corpus remplisse les trois critères fondamentaux de construction de
+corpus – l’homogénéité, la contrastivité et la diachronité – et le
+quatrième critère ajouté par Damon Mayaffre, qui est celui de la
+réflexivité.
+
+Un corpus qui réponde à ces exigences pourrait être composé des œuvres
+littéraires et historiques, de la transcription des débats politiques et
+des articles parus dans les journaux, qui contiennent mention de
+Charlemagne et qui datent entre 1815 et 1870. De cette manière seraient
+couvert les trois socles de la construction moderne de l’empereur : Les
+œuvres littéraires apporteraient surtout des aperçues sur la production
+poétique, les récits historiques mettraient le point sur sa place dans
+l’historiographie. Le mythe serait abordé dans le sens du mythe
+politique, dans sa capacité d’engendrer le soutien du peuple et de créer
+des modèles d’identité dans lesquels ce dernier peut se retrouver. Cela
+ne signifie pour autant pas que les trois aspects soient séparés. Au
+contraire, ils doivent forcément agir ensemble, l’un ou l’autre entrant
+au premier plan selon l’objective de l’auteur et la type de la source.
+
+Pourquoi le Journal des Débats (…) - Temps limité - Projet pédagogique -
+Le Journal des Débats répond à plusieurs exigeances - Journal = format
+hybride de publication -\> permet d’étudier la diversité de discours
+autour de Charlemagne - Journal au 19e siécle -\> objet qui se diffuse
+de plus en plus dans la société française - Mise en œuvre concrète /
+pratiques : bibliothèques virtuelles, numérisées
+
+Les journaux jouent également un rôle crucial, étant un des lieux
+principaux de la construction de l’identité nationale. Malgré le fait
+qu’ils offrent une scène à des débats controversés, dans leur ensemble,
+ils diffusent des informations, normes et valeurs communes, connectant
+les lecteurs. Tout au long du 19e siècle, Charlemagne représente un
+élément central de l’imaginaire collectif ainsi crée. De ce fait,
+l’addition au corpus des articles journalistiques contenant mention de
+l’empereur est indispensable, afin que les fonctions de sa figure dans
+la construction d’identité nationale française puissent être comprises.
+
+Présentation du Journal des Débats (…)
+
+Gallicagram, Google Ngram Un premier survol des résultats qui donnent
+les outils Gallicagram et Google Ngram Viewer souligne l’importance de
+tenir en compte ces quatre types de sources dans le corpus. Gallicagram
+permet d’analyser l’apparition du mot « Charlemagne » dans trois corpus
+ici pertinents, en l’occurrence les corpus « Presse française / Gallica
+», « Livres / Gallica » et « Le Journal des Débats. En recherchant le
+mot « Charlemagne » dans la période entre 1815 et 1870, des différences
+significatives se laissent constater entre les trois corpus. Par
+exemple, dans le corpus composé des journaux français, la plus haute
+fréquence de mentions de Charlemagne se situe dans les années 1850s,
+alors que dans le corpus « Livres », il se trouvent deux sommets, l’un
+vers 1840 et l’autre vers 1850. La courbe du corpus « Le Journal des
+Débat » se ressemble plutôt à celle de la presse qu’à celle des livres,
+ce qui est logique compte tenu qu’il est une sous-partie du premier.
+Pourtant, ils s’y trouvent des différences, notamment une plus grande
+fréquence de mention dans la deuxième moitié des années 1810s dans « Le
+Journal des Débats » en comparaison avec la presse en général. Suivant
+la même démarche, Google Ngram Viewer, qui travaille sur un corpus dont
+la composition reste inconnue, donne encore un autre résultat.[^2] (…)
+Conclusion de cela
+
+À part de représenter les principaux piliers de la construction
+discursive de la figure de Charlemagne au 19e siècle, le corpus ici
+proposé réponde aux critères généraux de la construction de corpus. Il
+est homogène, dans la mesure où il est uniquement composé d’éléments du
+même type de source, assurant sa qualité sérielle. La contrastivité du
+corpus est achevée en deux manières : D’une part, il est possible de
+comparer des étapes temporelles du 19e siècle, de l’autre d’explorer les
+différents genres d’article en tirer des conclusions par rapport à
+l’usage discursif de Charlemagne dans diverses domaines, notamment
+comparer l’usage de la figure dans des milieux politiques littéraires et
+historique.
+
+Le corpus proposé corresponde également au critère de la diachronicité,
+recouvrant la période entière entre 1815 et 1870. Enfin, la réflexivité
+serait tout autant garantie :
+
+- Journal est un objet attentif à ce qui est publié, toucher
+  indirectement d’autres aspects, sorte d
+
+L’exploration des articles de journaux assurent qu’une partie
+considérable du champ discursif puisse être saisi avec un corpus d’une
+taille modérée et par conséquent de contourner la problématique
+épistémologique décrit par Mayaffre.
+
+Hypothèse Plan de démarche
+
+[^1]: Morissey, R., *L’Empereur à la barbe fleurie. Charlemagne dans la
+    mythologie et l’histoire de France*, Paris 1998, p. 11.
+
+[^2]: Ces recherches ont été réalisé avec un lissage du facteur 4 pour
+    Gallicagram et du facteur 2 pour Google Ngram Viewer.
 
 ![Courbe Gallicagram](img/Courbe_Gallicagram.png)
 
