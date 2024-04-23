@@ -363,9 +363,315 @@ mythe fondateur que du mythe en mouvement dans une réalité changeante.
 
 ### Dépouillement du 2e facteur (Alexandre)
 
-- Présenter les principaux éléments mis en avant par le 2e facteur
-- Il faut intégrer des retours au texte afin d'illustrer les observations faites via l'utilisation de la fonction `kwic()` de quanteda par exemple.
-- Possibilité aussi de revenir aux journaux sur Gallica.
+Le deuxième facteur que nous allons étudier nous permet de nous pencher
+sur un point que nous avions volontairement laissés de côté au cours de
+notre analyse du premier facteur, le lien entre les différents discours
+de Charlemagne et la période se situant autour des années 1830. Nous
+pouvons notamment voir que la romanisation des discours de Charlemagne
+ainsi que de sa vie est une données centrale pour l’état français au
+cours du XIXème siècle. Il est alors légitime de se demander comment le
+règne de Charlemagne nous est conté dans le journal des débats sur cette
+courte période temporelle. Cependant, il faut faire attention à ne pas
+assigner des éléments du corpus en trop dans notre second facteur. Et
+pour se faire, nous avons utiliser la technique du coude, plus connue
+sous son nom anglais, *elbow method*. Selon les résultats qui nous sont
+proposés par l’AFC (Analyse Factorielle des Correspondances), il semble
+y avoir un lien très fort, bien que dissimulé au premier abord, entre
+les discours historiques et tous les autres discours de Charlemagne. On
+remarque alors que le terme ‘’romans’’ est celui qui est en coordonnées
+la plus négative sur le facteur 2 de notre AFC, ce qui signifie qu’il
+est sans doute en situation d’attration avec les modalités colonnes
+également en coordonnées négatives sur ce facteur comme les années 1832,
+1833 et 1834. Cela nous laisse alors entendre l’importance de ces
+discours dans le domaine historique. Et en effet, ces discours semblent
+être mis en opposition les uns avec les autres.
+
+> “Ce travail est difficile, je le sais, mais il est nécessaire pour
+> ranimer Charlemagne et son temps. C’est une étude historique à faire
+> sur des contes et des romans.” [^9]
+
+``` r
+kwic(tokens(debats), "romans", window=10)
+```
+
+    ## Keyword-in-context with 49 matches.           
+    ##   [62, 109]
+    ##   [99, 423]
+    ##  [143, 278]
+    ##  [244, 262]
+    ##  [334, 117]
+    ##  [341, 659]
+    ##  [439, 110]
+    ##  [439, 311]
+    ##   [440, 10]
+    ##  [529, 135]
+    ##  [587, 410]
+    ##  [618, 243]
+    ##  [618, 318]
+    ##  [618, 341]
+    ##  [653, 393]
+    ##   [708, 99]
+    ##   [713, 87]
+    ##  [714, 228]
+    ##   [723, 76]
+    ##   [728, 62]
+    ##   [728, 68]
+    ##  [729, 188]
+    ##  [729, 300]
+    ##   [740, 17]
+    ##  [740, 207]
+    ##  [740, 218]
+    ##  [740, 253]
+    ##   [743, 36]
+    ##  [743, 223]
+    ##  [743, 278]
+    ##  [743, 339]
+    ##  [743, 354]
+    ##    [744, 3]
+    ##  [745, 176]
+    ##    [747, 7]
+    ##   [747, 68]
+    ##   [747, 82]
+    ##   [750, 27]
+    ##  [750, 753]
+    ##    [751, 5]
+    ##   [751, 69]
+    ##  [751, 127]
+    ##   [752, 48]
+    ##   [752, 70]
+    ##  [753, 178]
+    ##  [753, 282]
+    ##   [769, 80]
+    ##  [794, 235]
+    ##  [851, 115]
+    ##                                                                          
+    ##                       si homme dans l'histoire, prend, dès les premiers |
+    ##                               ', autre se bornant à laisser croire. Les |
+    ##                      romain; il faudrait faire ce qu'ont fait nos vieux |
+    ##                            légende! ), le; grand Corneille appelait les |
+    ##                      , et de César jusqu'à Attila. Puia viendraient les |
+    ##                                     ), il est, dis-je, dans les idiomes |
+    ##                            aimé la force, et non pas seulement dans les |
+    ##                             , c'est enfin ce qu'on ne voit que dans les |
+    ##                              L'amour ne joue pas un grand rôle dans les |
+    ##           , le caractère politique qui semble régner dans plusieurs des |
+    ##               très religieux respect de l'histoire, tout en faisant des |
+    ##                          la source, soit en allant la chercher dans les |
+    ##                           les Notes de M. Mazuy des citations des vieux |
+    ##                  . L'Histoire des quatre fils Aymon, le Charlemagne des |
+    ##                                            : ( ( i ). Et que disent les |
+    ##                        colorent chacun selon le goût de son siècle. Ces |
+    ##                      une étude historique à faire sur des contes et des |
+    ##                       O ferrum! heu ferrum » Ouvrez quelques-uns de ces |
+    ##            Cet adoucissement du fanatisme fougueux, qu'on voit dans les |
+    ##                     première croisade. La patrie de ces deux espèces de |
+    ##                  ces deux espèces de romans est auînôins douteuse. Deux |
+    ##                             avares de détails, ne disent rien. Dans les |
+    ##  - visiblement confondu avec Charles-Martel et Charles-le-Chauve. « Les |
+    ##                 remarque. Les contes que j'ai cités ont-ils précédé les |
+    ##               Saint-Gall précède; d'un siècle au moins les plus anciens |
+    ##                            de Charlemagne. II est temps de passer à ces |
+    ##               a fait l'apothéose poétique de Charlemagne. Dans tous les |
+    ##          cela appartient à la Germanie sa généalogie fabuleuse dans les |
+    ##                             e voir. Quand au contraire, paraît dans les |
+    ##                      héros de son épopée. Aussi dans le Charlemagne des |
+    ##        Charlemagne, c'est-à-dire du héros auquel se rattachent tous les |
+    ##                               est temps d'en venir à i' examen des deux |
+    ##                                                                    De » |
+    ##   Charlemagne. Ce changement d'adversaires s'est perpétué dans tous les |
+    ##                                          Le plus célèbre de ces anciens |
+    ##                     Turpin. Ils la croient postérieure à la plupart des |
+    ##                         au moius aux traditions qui font le fond de ces |
+    ##            par le docteur Giulio Ferrario dans son histoire des anciens |
+    ##                          épique. C'est à ce second degré c'est dans les |
+    ##                                                                 ( Z ) M |
+    ##                   se retrouvent dans les j'omans connus sous le nom des |
+    ##                         . Monin nous fait connaître, font partie de ces |
+    ##                                  ,' ducde Bavière etc. Mais ce sont des |
+    ##                                , comme en choeur, je ne sais combien de |
+    ##              Ce sont eux surtout qui devinrent les sujets des diftérens |
+    ##                           dans t'Edds, et dans les Nibelungen. Dans les |
+    ##                     . mère de Charlemagne, précédé d'une Notice sur les |
+    ##                       plus nous inspirer. Il nous donnera des sujets de |
+    ##                         France. Il en. sera d'un opéra commode certains |
+    ##          
+    ##  romans |
+    ##  Romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  Romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  romans |
+    ##  Romans |
+    ##  romans |
+    ##  romans |
+    ##                                                                          
+    ##  , l'attitude d'un empereur idéal, organe et ~ représentant              
+    ##  semblaient inébranlables dans leur amo.ur; quand une bonne mesuré       
+    ##  de gestes. C'est là qu'est l'histoire de là'                            
+    ##  de chevalerie les originaux décousus de l'histoire. Ainsi M             
+    ##  d'aventures. Enfin paraîtraient les poëmes satiriques et allégoriques si
+    ##  une singularité dont l'explication m'a préoccupé grandement. Pourquoi,  
+    ##  , c'est le nôtre, ou les plus grands noms                               
+    ##  , la force au service delà justice, le bonheur                          
+    ##  du cycle carlovingien. Ce sont des chants de combat                     
+    ##  carlovingiens, probablement écrits « sous ~ Ie patronage et             
+    ##  . L'oeuvre qu'il a entreprise, ou pour mieax dire                       
+    ##  de chevalerie, dans les contes des trouvères et des                     
+    ##  et des vieilles poésies françaises qui les leur feront très             
+    ##  , l'enchanteur Merlin, les ogres, les chevaliers de                     
+    ##  , les chansons épiques, les traditions populaires, tous                 
+    ##  de Gharlemagne et des douze pains avee quoi le moyeu-âge                
+    ##  . Cette élude, M. de Sismondi ne l'a                                    
+    ##  dont la longue série forme l'épopée carlovingienne, et vous             
+    ##  de Charlemagne, fut un effet lent et graduel des                        
+    ##  est auînôins douteuse. Deux romans de la cinquième classe               
+    ##  de la cinquième classe qui se, rapporte aux guerres                     
+    ##  , tous les autres exploits de Charlemagne, plus importans               
+    ##  de la quatrième classe qui se rapportent à Guillaume 4iu                
+    ##  ou les ont-ils suivis? Je ne sais pas mais                              
+    ##  de Charlemagne. II est temps de passer à ces                            
+    ##  et d'étudier dapsCbarlemagnf le héros épique. Nous savons comment       
+    ##  des Douze Pairs Charlemagne que l'imagination du moyen-âge confond avec 
+    ##  là maison de France descend des empereurs romains. Maximien             
+    ##  le personnage dé Charlemagne nous sommes.au douzième siècle. Le         
+    ##  le guerrier germaniqm; a les moeurs du chevalier,                       
+    ##  des Douze Pairs il est temps d'en venir à i                             
+    ##  que nous annonçons:'̃'•̃;;•̃̃                                               
+    ##  de Charlemagne. ( 2 ° article. - )                                      
+    ##  de Charlemagne et des Douze Pairs toujours il s'agit de                 
+    ##  c'est sans contredit te fragment connu sous le nom de                   
+    ##  carlovingiens ou tout au moius aux traditions qui font le               
+    ##  . Les preuves qu'ils donnent à cet égard sont convaincantes             
+    ##  de chevalerie. Les payens ici sont les Sarrasins et                     
+    ##  que nous devons maintenant étudier le personnage de Charlemagne.        
+    ##  de C/ t ~ r/ ~ THa ~                                                    
+    ##  des douze pa/ r ~ de France. Le                                         
+    ##  carlo ~ ingiens.                                                        
+    ##  isolés. Autour de Charlemagne au contraire, viennent se                 
+    ##  dont il est le centre. Charlemagne est le dernier                       
+    ##  . La fable en effet aime mieax se prendre aux                           
+    ##  cartovingiens Attila, Charlemagne restent en arrière, et dans           
+    ##  des douze pairs de France, adressée à M.                                
+    ##  c'est possible:\\ il ne nous donnera pas de                             
+    ##  historiques de M""* de Genlis. <
+
+Cette phrase du Journal des Débats du 1er septembre 1834, tiré de la
+rubrique des Variétés, et plus précisément d’un article à propos du
+livre *Histoire des Français*[^10] de Monsieur de Sismondi, nous indique
+que les personnes cherchant à aborder le thème de l’empereur
+Charlemagne, grâce aux connaissances que nous avons de lui et des
+personnes qui lui sont proches, pour être capable de le lier aux
+multiples enjeux omniprésents lors du XIXème siècle.
+
+> “La chronique du moine Saint-Gall précède d’un siècle au moins les
+> plus anciens romans de Charlemagne. Il est temps de passer à ces
+> romans et d’étudier dans Charlemagne le héros épique.” [^11]
+
+Il y a alors une volonté claire de démontrer la place et surtout
+l’importance des écrits littéraires ayant été rédigés avant l’époque de
+Charlemagne mais aussi à son époque, et même après, qui abordent ce
+personnage central de l’histoire de France. C’est dans cette idée que
+s’inscrit notre texte qui provient lui aussi de la rubrique Variétés du
+Journal des Débats. Cette citation du journal provient d’un livre de
+Paulin Paris qui se nomme *Li Romans de Berte aus grans piés*. D’autant
+plus que le but de l’utilisation du personnage de Charlemagne est
+d’essayer de placer des sortes de fondements à cette société française.
+
+À l’instar de son coté romantique, la figure du héros ressort beaucoup
+dans les mots à caractères négatifs. Les auteurs des années 1830 possède
+de réelles envies de montrer, par la littérature et différents procédés
+stylistiques l’ampleur du personnage de l’empereur Charlemagne au sein
+de la société telle qu’elle se définit lors. De par ce vocabulaire
+fantastique, il y a une volonté évidente de faire transparaître et de
+transmettre le côté guerrier et belliqueux de Charlemagne. Il y a alors
+la notion de féodalité qui est omniprésente dans les récits qui sont
+racontés par les acteurs du XIXème siècle.
+
+> “Le poète nous montre avec le héros son théâtre : Arcis et Napoléon,
+> Chalons et Mérovée, Valmy et le drapeau tricolore” [^12]
+
+Dans ce poème de Monsieur Viennet nommé *La Franciade*[^13] qui nous est
+présenté par l’éditeur Henri Plon, l’auteur cherche a faire une
+démonstration de la place des personnages et la mise en abime qui passe
+par la comparaison avec d’autres hommes forts de l’histoire de la
+politique. Le côté poétique de cette oeuvre permet d’avoir une approche
+différente de la manière avec laquelle ces problématiques se retrouvent
+abordées. L’utiisation de certains personnages politiques provenant du
+passé de la France peut alors s’avérer très intéressante pour comprendre
+la société des années 1830 et en 1863. On voit ce phénomène avec la
+figure de Charlemagne, celle que nous sommes en train d’analyser, mais
+aussi avec un autre personnage qui est omniprésent et que l’on retrouve
+aussi en coordonnées négatives, Charles *Martel*.
+
+Cette idée de traditions ancestrales semble être centrale pour la
+compréhension des données présentes en coordonnées négatives au sein du
+second facteur de notre AFC. C’est alors logique de retrouver certains
+termes tels que : guerres, traditions, moyen, âge, féodalité ou peuples.
+On peut donc imaginer que ces thèmes sont beaucoup représentés par la
+littérature ainsi que tous les moyens d’apporter de la culture au peuple
+au cours du XIXème siècle. Il est aussi légitime de se questionner sur
+la place des *femmes* au sein de cette société encore extrêmement
+masculine, question qui donne l’impression d’être de plus en plus posé
+au fur et à mesure de l’évolution temporelle de notre période.
+
+Les années qui semblent être les plus compatibles avec ces productions
+littéraires et artistiques sont 1832, 1833, 1834 et 1863, des années
+assez rapprochées entre elles sauf pour la dernière.
+
+[^9]: Journal des débats, 1er septembre 1834,
+    <https://gallica.bnf.fr/ark:/12148/bpt6k438510m>
+
+[^10]: Histoire des français…, 1821, Jean Charles Leonard Simonde de
+    Sismondi
+
+[^11]: Journal des Débats, 14 octobre 1832,
+    <https://gallica.bnf.fr/ark:/12148/bpt6k437835v>
+
+[^12]: Journal des Débats, 05 mai 1863,
+    <https://gallica.bnf.fr/ark:/12148/bpt6k453409g>
+
+[^13]: Jeans-Pons-Guillaume Viennet, 1863, La Franciade: poëme en dix
+    chants
 
 ### Dépouillement du 3e facteur (Waldeck)
 
