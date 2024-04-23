@@ -1,4 +1,4 @@
-**Attention**, ce document est en cours de rédaction. Il s'agit d'une version de travail amenée à étudier.
+**Attention**, ce document est en cours de rédaction. Il s'agit d'une version de travail amenée à évoluer.
 
 # Présentation du corpus
 
