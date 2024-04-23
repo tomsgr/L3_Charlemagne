@@ -354,7 +354,7 @@ du 19 mars 1866, citation tirée d’un commentaire d’actualités étrangères
 > l’indépendance du Pontife?” \[…\] Afin de s’assurer de la donation de
 > Charlemagne, la papauté laisse épouser successivement neuf femmes, au
 > mépris des arrêts énergiques par lesquels l’Eglise réprouvait le
-> divorce” [^5]
+> divorce” [^7]
 
 Cette citation usant d’un exemple prosaïque pour démontrer les intérêts
 politiques pour les deux partis à s’allier, renverse une sorte d’image
@@ -432,7 +432,7 @@ compte-rendu de la séance du Corps Législatif du 11 mars 1861:
 > français. Il a voulu maintenir la papauté dans des conditions de
 > dignité et d’indépendance, et en même temps il voulut, conformément à
 > la politique séculaire de la France, maintenir la séparation des
-> nations italiennes. » [^6]
+> nations italiennes. » [^8]
 
 Ainsi, Charlemagne sert à justifier par l’histoire, la tradition ou la
 morale une position qui peut sembler trahir nos alliés italiens du
@@ -458,22 +458,22 @@ démontrer toute la plasticité de la figure de Charlemagne qui sert à
 justifier tout et son contraire, montrant bien que Charlemagne relève du
 mythe fondateur que du mythe en mouvement dans une réalité changeante.
 
-[^1]: *Journal des débats*, 1er décembre 1866, lien
+[^3]: *Journal des débats*, 1er décembre 1866, lien
     URL:<https://gallica.bnf.fr/ark:/12148/bpt6k456344g>.
 
-[^2]: *Journal des Débats*, 26 novembre 1866, URL:
+[^4]: *Journal des Débats*, 26 novembre 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k4563391>
 
-[^3]: *Journal des Débats* 19 novembre 1866, URL:
+[^5]: *Journal des Débats* 19 novembre 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k456332c>
 
-[^4]: *Journal des Débats*, 14 mars 1861, URL:
+[^6]: *Journal des Débats*, 14 mars 1861, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k452639v>
 
-[^5]: *Journal des Débats*, 19 mars 1866, URL:
+[^7]: *Journal des Débats*, 19 mars 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k456090r>
 
-[^6]: *Journal des Débats*, 12 mars 1861, URL:
+[^8]: *Journal des Débats*, 12 mars 1861, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k4526373>
 
 
