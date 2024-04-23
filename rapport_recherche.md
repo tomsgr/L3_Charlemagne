@@ -89,7 +89,7 @@ traitant des nouvelles diplomatiques reçues de Naples le 24 novembre
 
 > “Charlemagne en constituant l’Etat pontifical n’en fit la donation
 > qu’à Saint-Pierre et à la république, *beato Petro er romane
-> reipublicae*” [^1]
+> reipublicae*” [^3]
 
 Ici la référence historique est fausse, puisque c’est Pépin le Bref qui
 a en réalité, en 751, réalisé la donation territoriale au Pape fondant
@@ -111,7 +111,7 @@ journaliste P.David:
 > “Quoi qu’il en soit l’auteur commence par établir, d’après l’historien
 > Muratori, que Rome n’ayant été conquise par les Lombards, n’a pu être
 > comprise au nom des cités données ou restitues aux Papes par Pépin et
-> Charemagne”.[^2]
+> Charemagne”.[^4]
 
 Cette citation faisant référence au don de Pépin en 751, créant une nuance
 insistant sur l’indépendance de la Ville Eternelle face aux Lombards
@@ -153,7 +153,7 @@ référence au *Discours sur Tite-Live* de Machiavel:
 > l’Eglise que nous le devons. Ainsi elle appela Chgarlemagne pour
 > chasser les Lombards déjà rois de toute l’Italie. \[…\]. Telle est la
 > cause de sa désunion. \[…\] Or tout cela c’est à la cour de Rome que
-> nous le devons.” [^3]
+> nous le devons.” [^5]
 
 Cette citation, prenant place dans un contexte de *Risrogimento*, cause
 populaire en Europe, peut traduire une critique anticléricale qui est
@@ -183,7 +183,7 @@ sorte d’anachronisme politique. Cela nous est témoigné dans le numéro du
 > qu’elle occupait dans l’Equilibre politique de l’Europe; que la
 > liberté et l’indépendance qu’elle possédait aux temps de Charlemagne
 > et de Jules II ont été effacées par les transformations politiques et
-> territoriales des deux derniers siècles” [^4]
+> territoriales des deux derniers siècles” [^6]
 
 Cette citation témloigne des évolutions géopolitiques internationles des
 deux derniers diècles ayant progressivement rétrogradé les Etats
@@ -236,7 +236,7 @@ du 19 mars 1866, citation tirée d’un commentaire d’actualités étrangères
 > l’indépendance du Pontife?” \[…\] Afin de s’assurer de la donation de
 > Charlemagne, la papauté laisse épouser successivement neuf femmes, au
 > mépris des arrêts énergiques par lesquels l’Eglise réprouvait le
-> divorce” [^5]
+> divorce” [^7]
 
 Cette citation usant d’un exemple prosaïque pour démontrer les intérêts
 politiques pour les deux partis à s’allier, renverse une sorte d’image
@@ -314,7 +314,7 @@ compte-rendu de la séance du Corps Législatif du 11 mars 1861:
 > français. Il a voulu maintenir la papauté dans des conditions de
 > dignité et d’indépendance, et en même temps il voulut, conformément à
 > la politique séculaire de la France, maintenir la séparation des
-> nations italiennes. » [^6]
+> nations italiennes. » [^8]
 
 Ainsi, Charlemagne sert à justifier par l’histoire, la tradition ou la
 morale une position qui peut sembler trahir nos alliés italiens du
