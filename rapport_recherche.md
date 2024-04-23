@@ -25,6 +25,8 @@
 - Nombre de facteurs à dépouiller
 - Seuillage des modalités, modalités en supplémentaire...
 
+![Graphique factoriel](img/afc_charlemagne.png)
+
 ### Dépouillement du 1er facteur (Enzo)
 
 - Présenter les principaux éléments mis en avant par le 1er facteur.
