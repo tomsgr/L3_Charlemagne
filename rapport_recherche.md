@@ -456,7 +456,7 @@ réel qui sert à la défense d’une cause jugée noble en son temps:
 l’unification italienne. Au terme de cette réflexion nous pouvons ainsi
 démontrer toute la plasticité de la figure de Charlemagne qui sert à
 justifier tout et son contraire, montrant bien que Charlemagne relève du
-mythe fondateur que du mythe en mouvement dans une réalité changeante.
+mythe fondateur que du mythe en mouvement dans une réalité changeante. Pour revenir à la plasticité de la figure de Charlemagne, nous pouvons l'observer dans les coordonnées positives du facteur 1. Les modalités lignes et colonnes sont très hétéroclites, rapprochant des termes très distants (comme "Livres", "Royal", "Académie", "romans", "travail", "rue" ou encore "reine") et des années dont le lien chronologique ne peut être fait comme cela ("1845", "1844", "1870", ou encore "1819"). Il apparait que nos coordonnées positives témoignent d'un usage plus artistique et littéraire de Charlemagne, ce qui est l'enjeu central du deuxième facteur.
 
 [^3]: *Journal des débats*, 1er décembre 1866, lien
     URL:<https://gallica.bnf.fr/ark:/12148/bpt6k456344g>.
